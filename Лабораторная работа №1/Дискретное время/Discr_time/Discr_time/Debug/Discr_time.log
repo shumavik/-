@@ -1,0 +1,18 @@
+﻿  Discr_time.cpp
+c:\users\artur\desktop\учеба\моделирование\лабораторная работа №1\дискретное время\discr_time\discr_time\discr_time.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\artur\desktop\учеба\моделирование\лабораторная работа №1\дискретное время\discr_time\discr_time\discr_time.cpp(1): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\artur\desktop\учеба\моделирование\лабораторная работа №1\дискретное время\discr_time\discr_time\discr_time.cpp(2): note: использование предварительно скомпилированного заголовка
+c:\users\artur\desktop\учеба\моделирование\лабораторная работа №1\дискретное время\discr_time\discr_time\discr_time.cpp(14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\artur\desktop\учеба\моделирование\лабораторная работа №1\дискретное время\discr_time\discr_time\discr_time.cpp(35): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\artur\desktop\учеба\моделирование\лабораторная работа №1\дискретное время\discr_time\discr_time\discr_time.cpp(36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\artur\desktop\учеба\моделирование\лабораторная работа №1\дискретное время\discr_time\discr_time\discr_time.cpp(29): warning C4101: sum: неиспользованная локальная переменная
+c:\users\artur\desktop\учеба\моделирование\лабораторная работа №1\дискретное время\discr_time\discr_time\discr_time.cpp(33): warning C4101: sum_rez: неиспользованная локальная переменная
+c:\users\artur\desktop\учеба\моделирование\лабораторная работа №1\дискретное время\discr_time\discr_time\discr_time.cpp(30): warning C4101: Sum: неиспользованная локальная переменная
+c:\users\artur\desktop\учеба\моделирование\лабораторная работа №1\дискретное время\discr_time\discr_time\discr_time.cpp(28): warning C4101: Position: неиспользованная локальная переменная
+c:\users\artur\desktop\учеба\моделирование\лабораторная работа №1\дискретное время\discr_time\discr_time\discr_time.cpp(33): warning C4101: P0: неиспользованная локальная переменная
+c:\users\artur\desktop\учеба\моделирование\лабораторная работа №1\дискретное время\discr_time\discr_time\discr_time.cpp(32): warning C4101: Procent: неиспользованная локальная переменная
+c:\users\artur\desktop\учеба\моделирование\лабораторная работа №1\дискретное время\discr_time\discr_time\discr_time.cpp(28): warning C4101: i: неиспользованная локальная переменная
+c:\users\artur\desktop\учеба\моделирование\лабораторная работа №1\дискретное время\discr_time\discr_time\discr_time.cpp(28): warning C4101: j: неиспользованная локальная переменная
+c:\users\artur\desktop\учеба\моделирование\лабораторная работа №1\дискретное время\discr_time\discr_time\discr_time.cpp(33): warning C4101: T: неиспользованная локальная переменная
+c:\users\artur\desktop\учеба\моделирование\лабораторная работа №1\дискретное время\discr_time\discr_time\discr_time.cpp(30): warning C4101: PromRes: неиспользованная локальная переменная
+  Discr_time.vcxproj -> C:\Users\artur\Desktop\учеба\Моделирование\Лабораторная работа №1\Дискретное время\Discr_time\Debug\Discr_time.exe
